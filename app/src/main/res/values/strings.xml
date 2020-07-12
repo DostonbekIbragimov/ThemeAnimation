@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThemeAnimation</string>
+    <string name="info">Theme is still able to be change \nunder in the settings</string>
+    <string name="title">Choose Your Mode</string>
+</resources>
